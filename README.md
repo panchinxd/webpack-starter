@@ -14,4 +14,11 @@ Y para crear nuevamente el DIST
 ```
 npm start
 ```
+
+Para reconstruir el build, recuerden: (prueba)
+
+```
+npm run build
+```
 # webpack-starter
+
